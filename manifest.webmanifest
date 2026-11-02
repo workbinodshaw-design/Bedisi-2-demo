@@ -1,0 +1,14 @@
+{
+  "name": "Bedesi — A Taste of Home",
+  "short_name": "Bedesi",
+  "description": "Explore the Bedesi menu and order at your table.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf6ed",
+  "theme_color": "#102443",
+  "icons": [
+    {"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
